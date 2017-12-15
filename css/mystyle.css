@@ -1,0 +1,21 @@
+.col-lg-4, .col-lg-6{
+  margin-top: 10px;
+}
+
+.my-button {
+  margin: 6px;
+}
+
+.my-button-div {
+  text-align: center;
+}
+
+.blue-thead {
+  background: blue;
+}
+
+.my-block {
+  margin: 6px;
+  text-align: center;
+}
+
